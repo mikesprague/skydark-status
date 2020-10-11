@@ -1,6 +1,6 @@
 owner: mikesprague
 repo: skydark-status
-user-agent: SkyDarkStatusBot
+user-agent: mikesprague
 sites:
   - name: SkyDark
     url: https://skydark.app
