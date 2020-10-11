@@ -1,6 +1,6 @@
 - url: $SKYDARK_API_URL
 - status: up
 - code: 200
-- responseTime: 326
-- lastUpdated: 2020-10-11T15:43:57.121Z
+- responseTime: 350
+- lastUpdated: 2020-10-11T15:58:01.379Z
 - startTime: 2020-10-11T15:27:46.150Z
