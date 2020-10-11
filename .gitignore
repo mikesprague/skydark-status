@@ -105,3 +105,6 @@ dist
 
 # Built files
 dist/
+
+# VS Code
+*.code-workspace
