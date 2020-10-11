@@ -108,3 +108,5 @@ dist/
 
 # VS Code
 *.code-workspace
+.history
+
