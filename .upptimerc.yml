@@ -4,8 +4,8 @@ user-agent: mikesprague
 sites:
   - name: SkyDark
     url: https://skydark.app
-  - name: SkyDark API
-    url: $SKYDARK_API_URL
+#   - name: SkyDark API
+#     url: $SKYDARK_API_URL
 assignees:
   - mikesprague
 status-website:
