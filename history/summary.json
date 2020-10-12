@@ -11,8 +11,8 @@
     "name": "SkyDark API",
     "url": "$SKYDARK_API_URL",
     "slug": "sky-dark-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 385
+    "time": 321
   }
 ]
