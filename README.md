@@ -8,14 +8,13 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟨 Partial outage**
+## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 313ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
-| SkyDark API | 🟥 Down | [sky-dark-api.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark-api.yml) | <img alt="Response time graph" src="./graphs/sky-dark-api.png" height="20"> 214ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark-api%2Fuptime.json)
+| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 304ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
 
 <!--end: status pages-->
 
