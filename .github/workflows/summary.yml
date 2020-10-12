@@ -22,4 +22,4 @@ jobs:
         run: npm run readme
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          SKYDARK_API_URL: ${{ secrets.SKYDARK_API_URL }}
+          SECRET_SITE: ${{ secrets.SECRET_SITE }}

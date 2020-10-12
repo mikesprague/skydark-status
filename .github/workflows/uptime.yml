@@ -20,5 +20,5 @@ jobs:
         run: npm run update
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
-          SKYDARK_API_URL: ${{ secrets.SKYDARK_API_URL }}
+          SECRET_SITE: ${{ secrets.SECRET_SITE }}
           SLACK_APP_ACCESS_TOKEN: ${{ secrets.SLACK_APP_ACCESS_TOKEN }}
