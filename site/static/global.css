@@ -8,6 +8,10 @@ body {
   background-color: #333;
 }
 
+nav {
+  background-color: #222 !important;
+}
+
 h1,
 h2,
 h3,
