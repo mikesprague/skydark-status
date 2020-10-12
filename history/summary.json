@@ -5,7 +5,7 @@
     "slug": "sky-dark",
     "status": "up",
     "uptime": "100.00",
-    "time": 308
+    "time": 313
   },
   {
     "name": "SkyDark API",
@@ -13,6 +13,6 @@
     "slug": "sky-dark-api",
     "status": "down",
     "uptime": "100.00",
-    "time": 321
+    "time": 214
   }
 ]
