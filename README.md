@@ -14,8 +14,8 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 308ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
-| SkyDark API | 🟥 Down | [sky-dark-api.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark-api.yml) | <img alt="Response time graph" src="./graphs/sky-dark-api.png" height="20"> 321ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark-api%2Fuptime.json)
+| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 313ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
+| SkyDark API | 🟥 Down | [sky-dark-api.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark-api.yml) | <img alt="Response time graph" src="./graphs/sky-dark-api.png" height="20"> 214ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark-api%2Fuptime.json)
 
 <!--end: status pages-->
 
