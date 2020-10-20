@@ -11,11 +11,9 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 ## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
-
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 285ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
-
+| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 279ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
 <!--end: status pages-->
 
 ## ⭐ How it works
