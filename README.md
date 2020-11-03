@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.skydark.app): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.skydark.app): <!--live status--> **🟥 Complete outage**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,11 +8,12 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 233ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
+
+| URL                            | Status  | History                                                                                           | Response Time                                                                 | Uptime                                                                                                                                                                |
+| ------------------------------ | ------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [SkyDark](https://skydark.app) | 🟥 Down | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 225ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json) |
+
 <!--end: status pages-->
 
 ## ⭐ How it works
