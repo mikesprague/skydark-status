@@ -9,9 +9,11 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
 <!--start: status pages-->
-| URL | Status | History | Response Time | Uptime |
-| --- | ------ | ------- | ------------- | ------ |
-| [SkyDark](https://skydark.app) | 🟩 Up | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 241ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json)
+
+| URL                            | Status | History                                                                                           | Response Time                                                                 | Uptime                                                                                                                                                                |
+| ------------------------------ | ------ | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [SkyDark](https://skydark.app) | 🟩 Up  | [sky-dark.yml](https://github.com/mikesprague/skydark-status/commits/master/history/sky-dark.yml) | <img alt="Response time graph" src="./graphs/sky-dark.png" height="20"> 238ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmikesprague%2Fskydark-status%2Fmaster%2Fapi%2Fsky-dark%2Fuptime.json) |
+
 <!--end: status pages-->
 
 ## ⭐ How it works
