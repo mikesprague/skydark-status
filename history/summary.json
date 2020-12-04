@@ -5,6 +5,14 @@
     "slug": "sky-dark",
     "status": "up",
     "uptime": "100.00%",
-    "time": 226
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 230,
+    "timeDay": 249,
+    "timeWeek": 192,
+    "timeMonth": 208,
+    "timeYear": 230
   }
 ]
