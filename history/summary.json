@@ -2,6 +2,7 @@
   {
     "name": "SkyDark",
     "url": "https://skydark.app",
+    "icon": "https://favicons.githubusercontent.com/skydark.app",
     "slug": "sky-dark",
     "status": "up",
     "uptime": "100.00%",
@@ -10,9 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 446,
-    "timeWeek": 245,
-    "timeMonth": 223,
-    "timeYear": 232
+    "timeDay": 195,
+    "timeWeek": 246,
+    "timeMonth": 220,
+    "timeYear": 232,
+    "dailyMinutesDown": {}
   }
 ]
