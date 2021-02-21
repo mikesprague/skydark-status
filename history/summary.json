@@ -6,15 +6,15 @@
     "slug": "sky-dark",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 471,
-    "timeDay": 201,
-    "timeWeek": 246,
-    "timeMonth": 1235,
-    "timeYear": 471,
+    "time": 469,
+    "timeDay": 112,
+    "timeWeek": 235,
+    "timeMonth": 1226,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2021-02-19": 16
     }
