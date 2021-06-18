@@ -15,3 +15,4 @@ status-website:
   backUrl: https://skydark.app
   introTitle: "SkyDark Status"
   introMessage: This page shows **real-time** status of the SkyDark PWA and API
+  theme: dark
